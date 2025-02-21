@@ -7,7 +7,7 @@ const NewFile = () => {
   return (
     <View>
       <Ionicons name="home" size={50} color="yellow" />
-      <Text>Hello</Text>
+      <Text>Hellfghfghgfghgfdo</Text>
     </View>
   );
 };
